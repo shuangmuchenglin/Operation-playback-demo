@@ -11,10 +11,10 @@ Demo uses the swing component to write a calculator. You can operate in the calc
 
 效果：
 
-![Image text](https://github.com/shuangmuchenglin/image/blob/master/QQ%E6%88%AA%E5%9B%BE20200508125125.png)
+![Image text](https://github.com/shuangmuchenglin/Operation-playback-demo/blob/master/image/1.png)
 
-![Image text](https://github.com/shuangmuchenglin/image/blob/master/QQ%E6%88%AA%E5%9B%BE20200508125443.png)
+![Image text](https://github.com/shuangmuchenglin/Operation-playback-demo/blob/master/image/2.png)
 
-![Image text](https://github.com/shuangmuchenglin/image/blob/master/QQ%E6%88%AA%E5%9B%BE20200508125532.png)
+![Image text](https://github.com/shuangmuchenglin/Operation-playback-demo/blob/master/image/3.png)
 
 欢迎讨论QQ：1476154032，觉得有用喜欢的给个星星吧0.0
