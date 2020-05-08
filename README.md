@@ -3,7 +3,9 @@ Demo uses the swing component to write a calculator. You can operate in the calc
 
 使用方式：
 1.注意代码中的记录文件位置，克隆到自己电脑上时需要修改对应的文件路径
+
 2.源代码直接放到record_tool的package下，或者自己手动改写文件所在的package
+
 3.运行GUI.java可以看到界面化demo
 
 效果：
