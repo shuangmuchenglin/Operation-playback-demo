@@ -10,4 +10,5 @@ Demo uses the swing component to write a calculator. You can operate in the calc
 3.运行GUI.java可以看到界面化demo
 
 效果：
-![image text] (https://github.com/shuangmuchenglin/image/blob/master/QQ%E6%88%AA%E5%9B%BE20200508125125.png)
+
+![Image text](https://github.com/shuangmuchenglin/image/blob/master/QQ%E6%88%AA%E5%9B%BE20200508125125.png)
