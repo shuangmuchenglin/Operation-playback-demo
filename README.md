@@ -17,4 +17,4 @@ Demo uses the swing component to write a calculator. You can operate in the calc
 
 ![Image text](https://github.com/shuangmuchenglin/Operation-playback-demo/blob/master/image/3.png)
 
-欢迎讨论QQ：1476154032，觉得有用喜欢的给个星星吧0.0
+欢迎在Issues中提出问题或讨论，觉得有用喜欢的给个星星吧0.0
